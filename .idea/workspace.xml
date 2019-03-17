@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35560668-c66d-4e30-9e46-ec29dd7023cf" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/Symfony_17_03_19_18_31_s.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ntp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/app/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/app/AppCache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/app/AppKernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/app/Resources/views/base.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/app/Resources/views/default/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/app/config/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/app/config/config_dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/app/config/config_prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/app/config/config_test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/app/config/parameters.yml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/app/config/routing.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/app/config/routing_dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/app/config/security.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/app/config/services.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/bin/console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/bin/symfony_requirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/phpunit.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/src/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/src/AppBundle/AppBundle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/src/AppBundle/Controller/DefaultController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/tests/AppBundle/Controller/DefaultControllerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/var/SymfonyRequirements.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/var/cache/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/var/logs/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/var/sessions/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/web/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/web/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/web/app_dev.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/web/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/web/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/web/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ntp/web/robots.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>D:\Programy\xampp2\htdocs\ntp\composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ntp/src/AppBundle/Controller/DefaultController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ntp/app/Resources/views/base.html.twig">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ntp/app/Resources/views/default/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="s server:start " />
+      <command text="s server:run " />
+    </commandsHistory>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ntp/src/AppBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/ntp/app/Resources/views/default/index.html.twig" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ntp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ntp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.zend.framework.tool" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35560668-c66d-4e30-9e46-ec29dd7023cf" name="Default" comment="" />
+      <created>1552843136481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552843136481</updated>
+      <workItem from="1552843137826" duration="995000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="995000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Command Line Tools Console" visible="true" weight="0.32995495" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32995495" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14669926" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ntp/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntp/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ntp/app/Resources/views/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

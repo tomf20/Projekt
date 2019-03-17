@@ -1,0 +1,10 @@
+{
+    "name": "tomek/ntp",
+    "authors": [
+        {
+            "name": "t.fafara",
+            "email": "tomekf20@gmail.com"
+        }
+    ],
+    "require": {}
+}
